@@ -152,3 +152,5 @@ Result Tab:
 MIT License
 
 Copyright (c) 2019 Shubham Chadokar
+
+Cloned from - https://github.com/schadokar/election-ethereum-react-dapp
